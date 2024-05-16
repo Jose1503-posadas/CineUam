@@ -1,0 +1,70 @@
+.btn-Estrenos {
+    margin-right:15px;
+    font-size: 20px;
+    color: black;
+    background-color: orange; 
+}
+
+.btn-outline-cartelera{
+    margin-right:15px;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    border-color: orange;
+}
+
+.btn-preventa {
+    margin-right:15px;
+    font-size: 20px;
+    color: black;
+    background-color: orange; 
+}
+.btn-outline-promocion{
+    margin-right:15px;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    border-color: orange;
+}
+.btn-dulceria {
+    margin-right:15px;
+    font-size: 20px;
+    color: black;
+    background-color: orange; 
+}
+
+.btn-outline-opinion{
+    margin-right:15px;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    border-color: orange;
+}
+
+.btn-contacto {
+    margin-right:15px;
+    font-size: 20px;
+    color: black;
+    background-color: orange;
+}
+
+.btn-outline-sesion{
+    margin-right:15px;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    border-color: orange;
+}
+
+/*Estilos para formulario */
+
+.container {
+    text-align: center;
+}
+
+.center-form {
+    text-align: center;
+    display: inline-block;
+    text-align: left;
+}
+
