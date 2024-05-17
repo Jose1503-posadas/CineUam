@@ -1,0 +1,12 @@
+1,1,Azcapotzalco
+2,2,Iztapalapa
+3,3,Cuajimalpa
+4,4,Lerma
+5,5,Xochimilco
+
+INSERT INTO sucursal (IDSucursal, IDZona, NombreSucursal) VALUES
+(1,1,'Azcapotzalco'),
+(2,2,'Iztapalapa'),
+(3,3,'Cuajimalpa'),
+(4,4,'Xochimilco'),
+(5,5,'Lerma');

@@ -1,0 +1,12 @@
+1,CDMX Norte
+2,CDMX Oriente
+3,CDMX Poniente
+4,CDMX Sur
+5,Lerma
+
+INSERT INTO zona (NombreZona) VALUES
+('CDMX Norte'),
+('CDMX Oriente'),
+('CDMX Poniente'),
+('CDMX Sur'),
+('Lerma');

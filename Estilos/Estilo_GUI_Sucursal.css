@@ -35,3 +35,36 @@ body {
     margin-top: 20px; /* Añade margen superior */
     margin-bottom: 10px; /* Añade margen inferior */
 }
+
+.display-4 {
+    color: #ff8800; /* Cambia el color del texto */
+    font-family:Arial, Helvetica, sans-serif;/* Cambia la fuente del texto */
+    font-weight: fantasy; /* Cambia el peso de la fuente */
+    text-align:start; /* Centra el texto */
+    margin-top: 20px; /* Añade margen superior */
+    margin-bottom: 10px; /* Añade margen inferior */
+    font-size: 24px;
+}
+
+.btn-primary{
+    background-color: #f8a203;
+    color: #ffffff;
+    border-color: #f77c01;
+}
+
+.btn-primary:hover {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.container_sucursal .row {
+    margin-left: 0;
+    margin-right: 0;
+}
